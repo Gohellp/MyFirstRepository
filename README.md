@@ -1,9 +1,9 @@
 # MyFirstRepository
 
-##About:
+## About:
 Репозиторий, созданный при прохождении курса [C# dev](https://skillfactory.ru/c-sharp-razrabotchik) от [SkillFactory](https://skillfactory.ru)
 
-##Current module:
+## Current module:
 В данный момент мы изучаем модуль под названием **Git**.
 
 Current knowledge:
