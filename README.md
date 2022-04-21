@@ -11,4 +11,3 @@ Current knowledge:
 > * Что такое Git
 > * Что такое GitHub
 > * Что такое Markdown
-=
