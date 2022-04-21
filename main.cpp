@@ -1,7 +1,11 @@
 #include <iosteam>
 
-int main()
-{
-	std::cout<<"Hello world!"
+int main(){
+	int a;
+	std::cin>>a;
+	while (a >= 0){
+		std::<<a;
+		a--;
+	}
 	return 0;
 }
